@@ -1,14 +1,19 @@
 body {
-    background-color:floralwhite;
+    font-family: "Arial";
+    font-size: 40px;
 }
 
 
 h1 {
-           background-color: antiquewhite; 
-           color:darkcyan;
-        }
+    background-color:#DBFFD6; 
+    text-align: center;
+    font-family:"Georgia";
+    font-size:70px;
+}
 
 h2{
-    background-color: aquamarine;
+    background-color: #DCD3FF;
+    font-family: "Cambria";
+    font-size: 60px;
 }
 
